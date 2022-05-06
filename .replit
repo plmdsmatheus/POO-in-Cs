@@ -1,1 +1,1 @@
-run = "mcs -out:Main.exe './Aula_03/BemVindo.cs' ; mono Main.exe"
+run = "mcs -out:Main.exe './Aula_04/ex1010.cs' ; mono Main.exe"
