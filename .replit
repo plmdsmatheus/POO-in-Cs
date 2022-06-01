@@ -1,1 +1,2 @@
-run = "mcs -out:Main.exe './Aula_06/lista02.cs' ; mono Main.exe"
+# run = "mcs -out:Main.exe './Aula_08/Av1.cs' ; mono Main.exe"
+run = "python3 ./Aula_08/Av1Q3.py"
